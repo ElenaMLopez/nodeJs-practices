@@ -1,0 +1,1 @@
+Puedes tener un archivo sss.js y luego llamarlo desde la consola con node <ruta_fichero> y te hace un log en consola
